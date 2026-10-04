@@ -35,11 +35,11 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Tracking
   - Public APIs
+  - Quantified Self
 apis:
   - name: Pixela
     description: "API for recording and tracking habits or effort, routines"
     humanURL: https://pixe.la
-    baseURL: https://pixe.la
     tags:
       - Tracking
     properties:
